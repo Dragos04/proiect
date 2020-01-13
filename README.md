@@ -1,4 +1,4 @@
-# bdsa-product-catalog
+# sport_shop
 
 # git clone
 
